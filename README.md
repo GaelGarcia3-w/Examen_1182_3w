@@ -1,10 +1,7 @@
 # Examen_1182_3w
 Edgar Gael Garcia Camacho 3-W
-
 print()
-
 print("Edgar gael Garcia camacho 1182: Examen.")
-
 print()
 
 # Programa #1
