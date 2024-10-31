@@ -45,3 +45,9 @@ Lista.remove("Programación")
 print()
 
 print(Lista)
+
+![image](https://github.com/user-attachments/assets/79dabadd-4150-485d-b142-62579460dfb2)
+
+![image](https://github.com/user-attachments/assets/248fa294-3797-4c8d-aa08-2eed8bb8cb89)
+
+
